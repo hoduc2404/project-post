@@ -1,7 +1,6 @@
 import time
 import pandas as pd
 import numpy as np
-import json
 
 from input_util import get_user_input
 
